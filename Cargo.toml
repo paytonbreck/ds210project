@@ -1,0 +1,9 @@
+[package]
+name = "womeninparliament"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+petgraph = "0.6"
+plotters = "0.3"
+csv = "1.2"
